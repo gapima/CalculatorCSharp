@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Source\Repos\CalculadoraCsharp\CalculadoraCsharp\bin\Debug\net6.0\CalculadoraCsharp.exe
+C:\Users\Gabriel\Source\Repos\CalculadoraCsharp\CalculadoraCsharp\bin\Debug\net6.0\CalculadoraCsharp.deps.json
+C:\Users\Gabriel\Source\Repos\CalculadoraCsharp\CalculadoraCsharp\bin\Debug\net6.0\CalculadoraCsharp.runtimeconfig.json
+C:\Users\Gabriel\Source\Repos\CalculadoraCsharp\CalculadoraCsharp\bin\Debug\net6.0\CalculadoraCsharp.dll
+C:\Users\Gabriel\Source\Repos\CalculadoraCsharp\CalculadoraCsharp\bin\Debug\net6.0\ref\CalculadoraCsharp.dll
+C:\Users\Gabriel\Source\Repos\CalculadoraCsharp\CalculadoraCsharp\bin\Debug\net6.0\CalculadoraCsharp.pdb
+C:\Users\Gabriel\Source\Repos\CalculadoraCsharp\CalculadoraCsharp\obj\Debug\net6.0\CalculadoraCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Source\Repos\CalculadoraCsharp\CalculadoraCsharp\obj\Debug\net6.0\CalculadoraCsharp.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Source\Repos\CalculadoraCsharp\CalculadoraCsharp\obj\Debug\net6.0\CalculadoraCsharp.AssemblyInfo.cs
+C:\Users\Gabriel\Source\Repos\CalculadoraCsharp\CalculadoraCsharp\obj\Debug\net6.0\CalculadoraCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Source\Repos\CalculadoraCsharp\CalculadoraCsharp\obj\Debug\net6.0\CalculadoraCsharp.dll
+C:\Users\Gabriel\Source\Repos\CalculadoraCsharp\CalculadoraCsharp\obj\Debug\net6.0\ref\CalculadoraCsharp.dll
+C:\Users\Gabriel\Source\Repos\CalculadoraCsharp\CalculadoraCsharp\obj\Debug\net6.0\CalculadoraCsharp.pdb
+C:\Users\Gabriel\Source\Repos\CalculadoraCsharp\CalculadoraCsharp\obj\Debug\net6.0\CalculadoraCsharp.genruntimeconfig.cache
